@@ -76,10 +76,65 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_pQEDHx": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bfmeHB": {
+          "type": "column",
+          "settings": {
+            "title": "Choisis ton format&nbsp;",
+            "text": "<p>Horizontale, carrée ou verticale.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HigPxE": {
+          "type": "column",
+          "settings": {
+            "title": "Envoi ta photo&nbsp;",
+            "text": "<p>Une photo de ton téléphone suffit.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kTCcJG": {
+          "type": "column",
+          "settings": {
+            "title": "Reçois ta toile",
+            "text": "<p>Prête à accrocher, livraison offerte.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_bfmeHB",
+        "column_HigPxE",
+        "column_kTCcJG"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Comment ça marche&nbsp;",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Texte du bouton",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "multicolumn_pQEDHx"
   ]
 }
