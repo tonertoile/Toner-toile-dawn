@@ -92,7 +92,7 @@
         "column_HigPxE": {
           "type": "column",
           "settings": {
-            "title": "Envoi ta photo&nbsp;",
+            "title": "Envoie ta photo&nbsp;",
             "text": "<p>Une photo de ton téléphone suffit.</p>",
             "link_label": "",
             "link": ""
